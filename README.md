@@ -19,6 +19,14 @@ Instead of relying only on traditional rule-based checks, we integrate multiple 
 	- Mobile-friendly design using Tailwind CSS.
 	- Modern UI components for a seamless experience.
 
+
+ ## Screenshots
+
+ <img width="1331" height="863" alt="image" src="https://github.com/user-attachments/assets/be463dd9-a6b6-468c-8e34-f7c7c0b3420d" />
+ <img width="1309" height="808" alt="image" src="https://github.com/user-attachments/assets/e57ea7f5-060f-4e90-b06a-6e9553248388" />
+
+
+
 ## Project Structure
 
 ```
@@ -75,6 +83,7 @@ moneyloun.py
 - [TypeScript](https://www.typescriptlang.org/)
 - [Vite](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
+
 
 ## Customization
 - **UI Components:** Located in `src/components/ui/` for easy reuse and extension.
